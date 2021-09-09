@@ -1,0 +1,7 @@
+Yelp account app details 
+
+Client ID
+yUoaw0_mKHH_mEMgqgeJug
+
+API Key
+gZ6f-h2jIThiEX5Vz4D9o5G9RVT-5lTDEM5Pn3sNmNKycJgflpXAji2fvFM1fCgscvC3KBLOaRKjgxc5NwD_zhhQZ3TMpBmhdnC5XoAskMqkJ2wE-5pjhDi7mFw3YXYx
